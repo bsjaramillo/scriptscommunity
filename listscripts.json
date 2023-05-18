@@ -3,5 +3,10 @@
     "name": "vpn.js",
     "author": "nokia24",
     "description": "Detector de VPN"
+  },
+  {
+    "name": "flags.js",
+    "author": "nokia24",
+    "description": "Banderas y Bloqueador de paises"
   }
 ]
