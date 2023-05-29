@@ -8,5 +8,10 @@
     "name": "flags.js",
     "author": "nokia24",
     "description": "Banderas y Bloqueador de paises"
+  },
+  {
+    "name": "buscargif.js",
+    "author": "nokia24",
+    "description": "Busca un gif de acuerdo a una palabra o tema"
   }
 ]
