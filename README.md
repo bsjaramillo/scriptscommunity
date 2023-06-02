@@ -4,11 +4,13 @@ It is a public repo for scripts from ares community, this scripts are available 
 ## Publish a script
 ### Zip your scritps.js folder, for example:
 
-This is a script structure data folder
+This is a script structure folder
+
+**Note: data folder is optionally, create it if you need it**
 
 ![image](https://github.com/bsjaramillo/scriptscommunity/assets/33032851/2509bd35-6ac5-4a6d-ab6c-945f40a4c33b)
 
-Zip (in format .zip, not .rar) all script data folder.
+Zip (in format .zip, not .rar) all script folder.
 
 ![image](https://github.com/bsjaramillo/scriptscommunity/assets/33032851/e61b2503-367a-4953-8a20-39e7b9f82799)
 
