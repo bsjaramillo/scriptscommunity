@@ -2,7 +2,7 @@
 It is a public repo for scripts from ares community, this scripts are available in [sb0t](https://github.com/bsjaramillo/sb0t) and [lib0t](https://github.com/bsjaramillo/lib0t) via commands: livescripts and downloadscripts.
 
 ## Publish a script
-### Zip your scritps.js folder, for example:
+### Zip your awesomescript.js folder, for example:
 
 This is a script structure folder
 
