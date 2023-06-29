@@ -10,16 +10,14 @@ body:
     attributes:
       label: Script author
       description: Your nick name, name or author of this script
-      value: ""
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: script-name
     attributes:
       label: Script name
       description: Input your script name
       placeholder: awesomescript.js
-      value: ""
     validations:
       required: true
   - type: textarea
@@ -28,6 +26,5 @@ body:
       label: Script description
       description: A short description about your script.
       placeholder: An awesome script for awesome things !
-      value: ""
     validations:
       required: true
