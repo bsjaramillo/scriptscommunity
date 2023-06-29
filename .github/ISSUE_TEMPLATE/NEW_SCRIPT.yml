@@ -1,63 +1,33 @@
 name: New Script
 description: Template for post scripts
-title: "[Script]: "
+title: "<insert script name as title>"
 labels: ["new", "script"]
 assignees:
-  - octocat
+  - ManuD33P,DanteSandDev,bsjaramillo
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
-    id: contact
+    id: script-author
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      label: Script author
+      description: Your nick name, name or author of this script
+      value: ""
     validations:
       required: true
-  - type: dropdown
-    id: version
+  - type: textarea
+    id: script-name
     attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+      label: Script name
+      description: Input your script name
+      placeholder: awesomescript.js
+      value: ""
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
+    id: script-description
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
-      options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
-
+      label: Script description
+      description: A short description about your script.
+      placeholder: An awesome script for awesome things !
+      value: ""
+    validations:
+      required: true
