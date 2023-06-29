@@ -1,7 +1,6 @@
 name: New Script
 description: Template for post scripts
 title: "<insert script name as title>"
-labels: ["new", "script"]
 assignees:
   - ManuD33P,DanteSandDev,bsjaramillo
 body:
