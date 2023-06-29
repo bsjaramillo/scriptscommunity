@@ -15,3 +15,5 @@ Zip (in format .zip, not .rar) all script folder.
 ![image](https://github.com/bsjaramillo/scriptscommunity/assets/33032851/e61b2503-367a-4953-8a20-39e7b9f82799)
 
 ### Submit your awesomescript.js.zip [here](https://github.com/bsjaramillo/scriptscommunity/issues/new) and provide an extra info about that script like Author, Script Name and Description. Your submit will be accepted in the best possible time.
+
+**Note: I'm not going to fix or improve any script, I'm just going to post it**
