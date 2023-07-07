@@ -15,6 +15,11 @@
     "description": "Busca un gif de acuerdo a una palabra o tema"
   },
   {
+    "name": "wmotd.js",
+    "author": "nokia24",
+    "description": "Motd para ib0t"
+  },
+  {
   "name":"partybomb.js",
   "author": "Manu16",
   "description": "Juego de palabras,Consiste en formar una palabra con la silaba pasada. Version BETA v1.0"
