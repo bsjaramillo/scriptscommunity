@@ -23,5 +23,10 @@
   "name":"vR2.js",
   "author": "Manu16",
   "description": "Juego de verdad o reto. Version BETA v1.0"
+  },
+  {
+    "name": "Ahorcado.js",
+    "author": "nokia24",
+    "description": "Juego del Ahorcado v1.0.0"
   }
 ]
