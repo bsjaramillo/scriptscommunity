@@ -28,5 +28,10 @@
     "name": "Ahorcado.js",
     "author": "nokia24",
     "description": "Juego del Ahorcado v1.2.2"
+  },
+  {
+    "name": "quotes.js",
+    "author": "nokia24",
+    "description": "Script para guardar frases v1.0.0"
   }
 ]
